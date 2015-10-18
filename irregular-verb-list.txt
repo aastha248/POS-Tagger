@@ -1,0 +1,421 @@
+         Abide1             Abode/Abided2                 Abode/Abided/Abidden3         Abides4         Abiding5   
+
+        Alight1            Alit/Alighted2                Alit/Alighted3             Alights4                 Alighting5  
+
+        Arise1             Arose2                        Arisen3                       Arises4                  Arising5      
+
+        Awake1             Awoke2                        Awoken3                       Awakes4                  Awaking5    
+
+        Be1                Was/Were2                     Been3                         Is4                      Being5      
+
+        Bear1              Bore2                         Born/Borne3                   Bears4                   Bearing5   
+
+        Beat1              Beat2                         Beaten3                       Beats4                   Beating5 
+
+        Become1            Became2                       Become3                      Becomes4                 Becoming5 
+
+        Begin1             Began2                        Begun3                        Begins4                  Beginning5 
+
+        Behold1            Beheld2                       Beheld3                       Beholds4                 Beholding5 
+
+        Bend1              Bent2                         Bent3                         Bends4                   Bending5 
+
+        Bet1               Bet2                          Bet3                          Bets4                    Betting5 
+
+       Bid1               Bade2                         Bidden3                       Bids4                    Bidding5 
+
+        Bid1               Bid2                          Bid3                          Bids4                    Bidding5 
+
+        Bind1              Bound2                        Bound3                        Binds4                   Binding5 
+
+        Bite1              Bit2                          Bitten3                       Bites4                   Biting5 
+
+        Bleed1             Bled2                         Bled3                         Bleeds4                  Bleeding5 
+
+        Blow1              Blew2                         Blown3                        Blows4                   Blowing5 
+
+        Break1             Broke2                        Broken3                       Breaks4                  Breaking5 
+
+        Breed1             Bred2                         Bred3                         Breeds4                  Breeding5 
+
+        Bring1             Brought2                      Brought3                      Brings4                  Bringing5 
+
+        Broadcast1   Broadcast/Broadcasted2   Broadcast/Broadcasted3     Broadcasts4     Broadcasting5 
+
+        Build1             Built2                        Built3                        Builds4                  Building5 
+
+        Burn1              Burnt/Burned2                 Burnt/Burned3                 Burns4                   Burning5 
+
+        Burst1             Burst2                        Burst3                        Bursts4                  Bursting5 
+
+        Bust1              Bust2                         Bust3                         Busts4                   Busting5 
+
+        Buy1               Bought2                       Bought3                       Buys4                    Buying5 
+
+        Cast1              Cast2                         Cast3                         Casts4                   Casting5 
+
+        Catch1             Caught2                       Caught3                       Catches4                 Catching5 
+
+        Choose1            Chose2                        Chosen3                       Chooses4                 Choosing5 
+
+        Clap1              Clapped/Clapt2                Clapped/Clapt3                Claps4                   Clapping5 
+
+        Cling1             Clung2                        Clung3                        Clings4                  Clinging5 
+
+        Clothe1            Clad/Clothed2                 Clad/Clothed3                 Clothes4                 Clothing5 
+
+        Come1              Came2                         Come3                         Comes4                   Coming5 
+
+        Cost1              Cost2                         Cost3                         Costs4                   Costing5 
+
+        Creep1             Crept2                        Crept3                        Creeps4                  Creeping5 
+
+        Cut1               Cut2                          Cut3                          Cuts4                    Cutting5 
+
+        Dare1              Dared/Durst2                  Dared3                        Dares4                   Daring5 
+
+        Deal1             Dealt2                        Dealt3                        Deals4                   Dealing5 
+
+        Dig1               Dug2                          Dug3                          Digs4                    Digging5 
+
+        Dive1              Dived/Dove2                   Dived3                        Dives4                   Diving5 
+
+        Do1                Did2                          Done3                         Does4                    Doing5 
+
+        Draw1              Drew2                         Drawn3                        Draws4                   Drawing5 
+
+        Dream1     Dreamt/Dreamed2       Dreamt/Dreamed3               Dreams4                  Dreaming5 
+
+        Drink1             Drank2                        Drunk3                        Drinks4                  Drinking5 
+
+        Drive1             Drove2                        Driven3                       Drives4                  Driving5 
+
+        Dwell1             Dwelt2                        Dwelt3                        Dwells4                  Dwelling5 
+
+        Eat1               Ate2                          Eaten3                        Eats4                    Eating5 
+
+        Fall1              Fell2                         Fallen3                       Falls4                   Falling5 
+
+        Feed1              Fed2                          Fed3                          Feeds4                   Feedin5 
+
+        Feel1              Felt2                         Felt3                         Feels4                   Feeling5 
+
+        Fight1             Fought2                       Fought3                       Fights4                  Fighting5 
+
+        Find1              Found2                        Found3                        Finds4                   Finding5 
+
+        Fit1               Fit/Fitted2                   Fit/Fitted3                   Fits4                    Fitting5 
+
+        Flee1              Fled2                         Fled3                         Flees4                   Fleeing5 
+
+        Fling1             Flung2                        Flung3                        Flings4                  Flinging5 
+
+        Fly1               Flew2                         Flown3                        Flies4                   Flying5 
+
+        Forbid1            Forbade/Forbad2               Forbidden3                    Forbid4                 Forbidding5 
+
+        Forecast1    Forecast/Forecasted2    Forecast/Forecasted3          Forecasts4               Forecasting5 
+
+        Foresee1           Foresaw2                      Foreseen3                     Foresees4                Foreseeing5 
+
+        Foretell1          Foretold2                     Foretold3                     Foretells4               Foretelling5 
+
+        Forget1            Forgot2                       Forgotten3                    Forgets4                 Foregetting5 
+
+        Forgive1           Forgave2                     Forgiven3                     Forgives4                Forgiving5 
+
+        Forsake1           Forsook2                      Forsaken3                     Forsakes4                Forsaking5 
+
+        Freeze1            Froze2                        Frozen3                       Freezes4                 Freezing5 
+
+        Frostbite1         Frostbit2                     Frostbitten3                  Frostbites4              Frostbiting5 
+
+        Get1               Got2                          Got/Gotten3                   Gets4                    Getting5 
+
+        Give1              Gave2                         Given3                       Gives4                   Giving5 
+
+        Go1                Went2                         Gone/Been3                    Goes4                    Going5 
+
+        Grind1             Ground2                       Ground3                       Grinds4                  Grinding5 
+
+        Grow1              Grew2                         Grown3                        Grows4                   Growing5 
+
+        Handwrite1    Handwrote2           Handwritten3                  Handwrites4              Handwriting5 
+
+        Hang1              Hung/Hanged2                  Hung/Hanged3                  Hangs4                   Hanging5 
+
+        Have1              Had2                          Had3                          Has4                     Having5 
+
+        Hear1              Heard2                        Heard3                        Hears4                   Hearing5 
+
+        Hide1              Hid2                          Hidden3                       Hides4                   Hiding5     
+
+        Hit1               Hit2                          Hit3                         Hits4                    Hitting5  
+
+        Hold1              Held2                         Held3                         Holds4                   Holding5 
+
+        Hurt1              Hurt2                         Hurt3                         Hurts4                   Hurting5 
+
+        Inlay1             Inlaid2                       Inlaid3                       Inlays4                  Inlaying5 
+
+        Input1             Input/Inputted2               Input/Inputted3               Inputs4                  Inputting5 
+
+        Interlay1          Interlaid2                    Interlaid3                 Interlays4               Interlaying5 
+
+        Keep1              Kept2                         Kept3                        Keeps4                   Keeping5 
+
+        Kneel1             Knelt/Kneeled2                Knelt/Kneeled3                Kneels4                  Kneeling5 
+
+        Knit1             Knit/Knitted2                 Knit/Knitted3                 Knits4                   Knitting5 
+
+        Know1              Knew2                         Known3                        Knows4                   Knowing5 
+
+        Lay1               Laid2                         Laid3                         Lays4                    laying5 
+
+        Lead1              Led2                          Led3                          Leads4                   Leading5 
+
+        Lean1              Leant/Leaned2                 Leant/Leaned3                 Leans4                   Leaning5 
+
+        Leap1              Leapt/Leaped2                 Leapt/Leaped3                 Leaps4                   Leaping5 
+
+        Learn1             Learnt/Learned2               Learnt/Learned3               Learns4                  Learning5 
+
+        Leave1             Left2                         Left3                         Leaves4                  Leaving5 
+
+        Lend1              Lent2                         Lent3                         Lends4                   Lending5 
+
+        Let1               Let2                          Let3                          Lets4                    Letting5  
+
+        Lie1               Lay2                          Lain3                         Lies4                    Lying5  
+
+        Light1             Lit2                          Lit3                          Lights4                  Lighting5 
+
+        Lose1              Lost2                         Lost3                         Loses4                   Losing5 
+
+        Make1              Made2                         Made3                         Makes4                   Making5 
+
+        Mean1              Meant2                        Meant3                        Means4                   Meaning5 
+
+        Meet1              Met2                          Met3                               Meets4                   Meeting5 
+
+        Melt1              Melted2                       Molten/Melted3                Melts4                   Melting5 
+
+        Mislead1           Misled2                       Misled3                       Misleads4                Misleading5 
+
+        Mistake1           Mistook2                      Mistaken3                     Mistake4                 Mistaking5 
+
+        Misunderstand1    Misunderstood2     Misunderstood3     Misunderstands4     Misunderstanding5 
+
+        Miswed1    Miswed/Miswedded2      Miswed/Miswedded3      Misweds4     Miswedding5 
+
+        Mow1               Mowed2                        Mown3                         Mows4                    Mowing5 
+
+        Overdraw1      Overdrew2        Overdrawn3                    Overdraws4               Overdrawing5 
+
+        Overhear1    Overheard2             Overheard3                    Overhears4               Overhearing5 
+
+        Overtake1          Overtook2                     Overtaken3                   Overtakes4               Overtaking5 
+
+        Pay1               Paid2                         Paid3                         Pays4                    Paying5 
+
+        Preset1            Preset2                       Preset3                       Prests4                  Presetting5 
+
+        Prove1             Proved2                       Proven/Proved3                Proves4                  Proving5 
+
+        Put1               Put2                          Put3                          Puts4                    Putting5 
+
+        Quit1              Quit2                         Quit3                         Quits4                   Quitting5 
+
+        Re-prove1    Re-proved2        Re-proven/Re-proved3          Re-proves4               Re-proving5 
+
+        Read1              Read2                         Read3                         Reads4                   Reading5 
+
+        Rid1               Rid/Ridded2                   Rid/Ridded3                   Rids4                    Ridding5 
+
+        Ride1              Rode2                         Ridden3                       Rides4                   Riding5 
+
+        Ring1              Rang2                         Rung3                         Rings4                   Ringing5 
+
+        Rise1              Rose2                         Risen3                        Rises4                   Rising5 
+
+        Rive1              Rived2                        Riven/Rived3                  Rives4                   Riving5 
+
+        Run1               Ran2                          Run3                          Runs4                    Running5 
+
+        Saw1               Sawed2                        Sawn/Sawed3                   Saws4                    Sawing5 
+
+        Say1               Said2                         Said3                         Says4                    Saying5 
+
+        See1               Saw2                          Seen3                         Sees4                    Seeing5 
+
+        Seek1              Sought2                       Sought3                      Seeks4                   Seeking5 
+
+        Sell1              Sold2                         Sold3                         Sells4                   Selling5 
+
+        Send1              Sent2                         Sent3                         Sends4                   Sending5 
+
+        Set1               Set2                          Set3                          Sets4                    Setting5 
+
+        Sew1               Sewed2                        Sewn/Sewed3                   Sews4                    Sewing5 
+
+        Shake1             Shook2                        Shaken3                       Shakes4                  Shaking5 
+
+        Shave1             Shaved2                       Shaven/Shaved3                Shaves4                  Shaving5 
+
+        Shear1             Shore/Sheared2                Shorn/Sheared3                Shears4                  Shearing5 
+
+        Shed1              Shed2                         Shed3                         Sheds4                   Shedding5 
+
+        Shine1             Shone2                        Shone3                        Shines4                  Shining5 
+
+        Shoe1              Shod2                         Shod3                         Shoes4                   Shoeing5 
+
+        Shoot1             Shot2                         Shot3                         Shoots4                  Shooting5 
+
+        Show1              Showed2                       Shown3                        Shows4                   Showing5 
+
+        Shrink1            Shrank2                       Shrunk3                       Shrinks4                 Shrinking5 
+
+        Shut1              Shut2                         Shut3                         Shuts4                   Shutting5 
+
+        Sing1              Sang2                         Sung3                         Sings4                   Singing5 
+
+        Sink1              Sank2                         Sunk3                         Sinks4                   Sinking5 
+
+        Sit1               Sat2                          Sat3                          Sits4                    Sitting5 
+
+        Slay1              Slew2                         Slain3                        Slays4                   Slaying5 
+
+        Sleep1             Slept2                        Slept3                        Sleeps4                  Sleeping5 
+
+        Slide1             Slid2                         Slid/Slidden3                 Slides4                  Sliding5 
+
+        Sling1             Slung2                        Slung3                        Slings4                  Slinging5 
+
+        Slink1             Slunk2                        Slunk3                        Slinks4                  Slinking5 
+
+        Slit1              Slit2                         Slit3                         Slits4                   Slitting5 
+
+        Smell1             Smelt/Smelled2                Smelt/Smelled3                Smells4                  Smelling5 
+
+        Sneak1             Sneaked/Snuck2                Sneaked/Snuck3                Sneaks4        Sneaking5  
+
+        Soothsay1       Soothsaid2        Soothsaid3                    Soothsays4               Soothsaying5 
+
+        Sow1               Sowed2                        Sown3                         Sows4                    Sowing5 
+
+        Speak1             Spoke2                        Spoken3                       Speaks4                  Speaking5 
+
+        Speed1       Sped/Speeded2       Sped/Speeded3                 Speeds4                  Speeding5 
+
+        Spell1             Spelt/Spelled2                Spelt/Spelled3                Spells4                  Spelling5 
+
+        Spend1             Spent2                        Spent3                        Spends4                  Spending5 
+
+        Spill1             Spilt/Spilled2                Spilt/Spilled3                Spills4                  Spilling5 
+
+        Spin1              Span/Spun2                    Spun3                         Spins4                   Spinning5 
+
+        Spit1              Spat/Spit2                    Spat/Spit3                    Spits4                   Spitting5 
+
+        Split1             Split2                        Split3                        Splits4                  Splitting5  
+
+        Spoil1             Spoilt/Spoiled2               Spoilt/Spoiled3               Spoils4                  Spoiling5 
+
+        Spread1            Spread2                       Spread3                       Spreads4                 Spreading5 
+
+        Spring1            Sprang2                       Sprung3                       Springs4                 Springing5 
+
+        Stand1             Stood2                        Stood3                        Stands4                  Standing5 
+
+        Steal1             Stole2                        Stolen3                       Steals4                  Stealing5 
+
+        Stick1             Stuck2                        Stuck3                        Sticks4                  Sticking5 
+
+        Sting1             Stung2                        Stung3                        Stings4                  Stinging5 
+
+        Stink1             Stank2                        Stunk3                        Stinks4                  Stinking5 
+
+        Stride1            Strode/Strided2               Stridden3                     Strides4                 Striding5 
+
+        Strike1            Struck2                       Struck/Stricken3              Strikes4                 Striking5 
+
+        String1            Strung2                       Strung3                       Strings4                 Stringing5 
+
+        Strip1             Stript/Stripped2              Stript/Stripped3              Strips 4                 Stripping5 
+
+        Strive1            Strove2                      Striven3                      Strives4                Striving5 
+
+        Sublet1            Suble2                       Sublet3                       Sublets4                 Subletting5 
+
+    Sunburn1      Sunburned/Sunburnt2   Sunburned/Sunburnt3      Sunburns4      Sunburning5 
+
+        Swear1             Swore2                        Sworn3                        Swears4                  Swearing5 
+
+        Sweat1     Sweat/Sweated2      Sweat/Sweated3                Sweats4                  Sweating5 
+
+        Sweep1     Swept/Sweeped2         Swept/Sweeped3                Sweeps                  Sweeping5 
+
+        Swell1             Swelled2                      Swollen3                      Swells4                  Swelling5 
+
+        Swim1              Swam2                         Swum3                         Swims4                   Swimming5 
+
+        Swing1             Swung2                        Swung3                        Swings4                 Swinging5 
+
+        Take1              Took2                         Taken3                        Takes4                   Taking5 
+
+        Teach1             Taught2                       Taught3                       Teaches4                 Teaching5 
+
+        Tear1              Tore2                         Torn3                         Tears4                   Tearing5 
+
+        Tell1              Told2                         Told3                         Tells4                   Telling5 
+
+        Think1             Thought2                      Thought3                      Thinks4                  Thinking5 
+
+        Thrive1            Throve/Thrived2               Thriven/Thrived3              Thrives4                 Thriving5 
+
+        Throw1             Threw2                        Thrown3                       Throws4                  Throwing5 
+
+        Thrust1            Thrust2                       Thrust3                       Thrusts4                 Thrusting5 
+
+        Tread1             Trod2                         Trodden3                      Treads4                  Treading5 
+
+        Undergo1       Underwent2           Undergone3                    Undergoes4               Undergoing5 
+
+        Understand1   Understood2     Understood3     Understands4      Understanding5 
+
+        Undertake1    Undertook2             Undertaken 3            Undertakes4              Undertaking5 
+
+        Upset1             Upset2                        Upset3                        Upsets4                  Upsetting5 
+
+        Vex1               Vext/Vexed2                   Vext/Vexed3                   Vexes4                   Vexing5 
+
+        Wake1              Woke2                         Woken3                        Wakes4                   Waking5 
+
+        Wear1              Wore2                         Worn3                         Wears4                   Wearing5 
+
+        Weave1             Wove2                         Woven3                        Weaves4                  Weaving5 
+
+        Wed1       Wed/Wedded2            Wed/Wedded3                   Weds4                    Wedding5 
+
+        Weep1              Wept2                         Wept3                         Weeps4                   Weeping5 
+
+        Wend1       Wended/Went2          Wended/Went3                  Wends4                   Wending5 
+
+        Wet1               Wet/Wetted2                 Wet/Wetted3                   Wets4                    Wetting5 
+
+        Win1               Won2                          Won3                          Wins4                    Winning5 
+
+        Wind1              Wound2                        Wound3                        Winds4                   Winding5 
+
+        Withdraw1     Withdrew2            Withdrawn3                    Withdraws4               Withdrawing5 
+
+        Withhold1    Withheld2           Withheld3              Withholds4               Withholding5 
+
+        Withstand1     Withstood2      Withstood3                    Withstands4              Withstanding5 
+
+        Wring1             Wrung2                        Wrung3                        Wrings4                  Wringing5 
+
+        Write1             Wrote2                        Written3                      Writes4                  Writing5 
+
+        Zinc1              Zinced/Zincked2               Zinced/Zincked3               Zincs4                   Zincking5 
